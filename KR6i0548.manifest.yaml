@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0548/v1
 canonical_location: https://kanripo.org/bkk/KR6i0548/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 占察善惡業報經玄義
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0548_000.yaml, hash: 'sha256:4a5a460a397caa5b7d80b4231fefdfc4a9e6333dd9621ac882caeaf3d0167b4a'}
-  - {seq: 1, filename: KR6i0548_001.yaml, hash: 'sha256:47eae275d4349ec26295dc2219cecb632bf80952df85c34e9b7ef61ab1de0a0d'}
+  - {seq: 1, filename: KR6i0548_001.yaml, hash: 'sha256:6864e5db830f7a52cad91683a921c0ac42aa4baa17d08a30c5c054087d45be19'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0548_000.markers.yaml, hash: 'sha256:a7268049754eff95a2fb53e99ed4dc4a3b100be32dc792cb213887ff87b861ca'}
-  - {seq: 1, role: markers, filename: assets/KR6i0548_001.markers.yaml, hash: 'sha256:289dc3f47469ac556b175a5a577b0711bbdf4dbeaf7f47cc333afa7b258af140'}
+  - {seq: 1, role: markers, filename: assets/KR6i0548_001.markers.yaml, hash: 'sha256:bdf46b688c8caf3b2ca8484ec4474843781d8069de05777ae3fee2cfbd118b28'}
 table_of_contents:
 - ref:
     seq: 1
@@ -97,4 +97,7 @@ table_of_contents:
   label: 第五教相
   type: mulu
   level: 1
-hash: sha256:b7fd4650461d95db6232c330c7e70e83e2aaa1be404a69706ed426910d4ac0a8
+hash: sha256:1ea393b22798ea429526cec52baf176336a989916b8b316183dad6bc589c4d8b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
